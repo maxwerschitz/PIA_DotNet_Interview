@@ -5,6 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="System.Runtime.Caching" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\PIA.DotNet.Interview.Core\PIA.DotNet.Interview.Core.csproj" />
   </ItemGroup>
 
